@@ -1,0 +1,3 @@
+2
+Detroit|Fresno|T
+Austin|Greensboro|C
